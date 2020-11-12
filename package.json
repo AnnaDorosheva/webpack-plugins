@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack --mode=development",
+
+    "start": "webpack serve",
     "server": "webpack-dev-server",
     "build": "webpack --mode=production"
   },
